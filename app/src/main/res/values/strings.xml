@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Pokemon</string>
+    <string name="weaknesses">Weaknesses</string>
+    <string name="types">Types</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="demo">Demo</string>
+    <string name="image_of_a_pokemon">image of a pokemon</string>
+    <string name="search">Search</string>
+</resources>
